@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="display_text">This is Activity A.</string>
+    <string name="click_me">Send Broadcast</string>
+    <string name="text_activity_b">This is Activity B.</string>
+    <string name="showDialog">Show Dialog</string>
+    <string name="openActivity">Open new activity</string>
+    <string name="previous">Go back</string>
+    <string name="btn_finish_dialog_label">Close</string>
+    <string name="dialog_text">Simple Dialog</string>
+</resources>
